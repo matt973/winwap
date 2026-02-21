@@ -1,3 +1,4 @@
+![WinWarp Logo](winwarp.png)
 # WinWarp 🚀
 
 **Quick boot to Windows from Batocera Linux via EFI boot manager**
@@ -29,7 +30,7 @@ WinWarp is a lightweight bash script that allows you to reboot directly into Win
 
 Connect to your Batocera machine via SSH and run:
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/matt973/WinWarp/main/install_winwarp.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/matt973/winwarp/main/install_winwarp.sh)
 ```
 
 The installer will:
